@@ -6,7 +6,7 @@
 
 This project was to further extend the skills we learned in last weeks homework, readmegenerater, into a team profile generator. Node.js prompts the user about information about employees that a user wants to input into the system. After the system takes all of the employee information, it writes the information into an HMTL file to display on a webpage. 
 
-Here is the video walkthrough of the project: 
+Here is the video walkthrough of the project: https://drive.google.com/file/d/1PPx1tpFQaD6FmoIznmSOR4X3Z_6B-yam/view
 Here is the GitHub Repository: https://github.com/ericrudeen/teamProfileGenerator
 
 ## Acceptance Criteria
