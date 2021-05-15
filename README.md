@@ -2,7 +2,7 @@
 
 # Description
 
-![badge](https://img.shields.io/badge/license-${answers.license}-blue)
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
 This project was to further extend the skills we learned in last weeks homework, readmegenerater, into a team profile generator. Node.js prompts the user about information about employees that a user wants to input into the system. After the system takes all of the employee information, it writes the information into an HMTL file to display on a webpage. 
 
@@ -37,7 +37,7 @@ Download the repository to your local machine, install node.js, and have the mod
 Run 'node index.js' on your terminal, answer all of the prompted questions as they are asked.
 
 # License
-![badge](https://img.shields.io/badge/license-${answers.license}-blue)
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
 # Contributing
 Eric Rudeen
